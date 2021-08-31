@@ -6,7 +6,9 @@
 - 💞️ I’m looking to collaborate on TM
 - 📫 How to reach me WooKing
 
+<!---
 ![theme-master's github stats](https://github-readme-stats.vercel.app/api?username=theme-masters&count_private=true&show_icons=true&theme=algolia)
+--->
 
 <p align="center"> 
   Visitor count<br>
